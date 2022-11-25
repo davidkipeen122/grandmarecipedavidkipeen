@@ -1,0 +1,30 @@
+nav {
+    background: #A4A400;
+}
+
+h2 {
+    color: #A4A400;
+    background-color:  #F0F0F0;
+}
+
+a {
+    background-color: #A4A400;
+}
+.comment1, .comment2, .comment3 {
+    background: #A4A400;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 13px 5%;
+    
+}
+.header{
+background-image: url("images/background.jpeg");
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+    
+}
